@@ -1,0 +1,18 @@
+Core (MVP — must build first)
+
+Auth — Signup/Login (JWT)
+AI Quiz Generator — topic/notes se MCQs generate (structured JSON)
+AI Doubt Solver Chat — multi-turn context-aware chat
+Progress Dashboard — quiz scores, charts (Recharts)
+
+AI-Heavy (Differentiators — build after MVP)
+
+Weak-Topic Analyzer — quiz history se AI weak areas identify kare
+Personalized Study Plan — AI daily/weekly plan generate kare
+RAG Notes Q&A — PDF/notes upload → chunk → embed → sirf usi content se answer
+AI Flashcard Generator — notes se auto flashcards
+
+Nice-to-have (agar time bache)
+
+Essay/Answer Evaluator — rubric-based AI grading with feedback
+Semantic Search on Notes — meaning-based search (embeddings reuse)
